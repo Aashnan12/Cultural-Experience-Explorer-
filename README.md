@@ -6,7 +6,7 @@
 
 ## 📸 Live Demo
 
-👉 [Visit the Live App](#) *(https://aashnan12.github.io/Cultural-Experience-Explorer-/)*
+👉 [https://dora-the-explorer-snowflake.netlify.app/](#)
 
 ---
 
